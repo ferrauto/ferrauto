@@ -3,7 +3,7 @@
 -  I’m a mechatronic engineering student from Colombia **(last year student)**.
 -  I’m currently interested in game development on mobile devices using unity, and in web development (Full Stack) with Node.js, Express.js, React, Bootstrap and css.
 -  I really like programming, I know the basics of python, java, javaScript, C#, SQL on ORACLE, arduino, VHDL and matlab.
-## Hey @ferrauto what's your expertise? 🤨
+## Hey @ferrauto! what's your expertise? 🤨
    -   I made some really simple image processig and data analitics on python.
    
    -   On java i have made some back end development for web pages and basic desktop apps with netbeans IDE.
